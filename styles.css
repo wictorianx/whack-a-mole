@@ -1,13 +1,14 @@
 .grid {
-  width : 606px;
-  height: 606px;
+  width : 666px;
+  height: 666px;
   display: flex;
   flex-wrap: wrap;
 }
 .square {
   width : 200px;
   height: 200px;
-  border-style: solid
-  border-color:black; 
+  border: solid blac 1px; 
 }
-.mole {}
+.mole {
+  background_color: blue;
+}
