@@ -1,14 +1,15 @@
 .grid {
-  width : 666px;
-  height: 666px;
+  width : 606px;
+  height: 606px;
   display: flex;
   flex-wrap: wrap;
 }
 .square {
   width : 200px;
   height: 200px;
-  border: solid blac 1px; 
+  border: solid black 1px; 
 }
 .mole {
-  background_color: blue;
+  background-image: url("alien.jpg");
+  background-size: cover;  
 }
